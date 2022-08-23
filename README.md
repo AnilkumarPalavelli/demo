@@ -26,8 +26,8 @@ return sum
 
 1. Go to the store
 2. Buy Food
-  2.1. Rice
-  2.2. Beans
+   1. Rice
+   2. Beans
 3. And this should be the final line.
 
 Before the rule we want a blank line
@@ -35,7 +35,7 @@ Before the rule we want a blank line
 And after as well.
 
 Lets do a search
-[Google](https://www.google.com)
+[browser](https://www.google.com)
 Or go to another markdown
 **[page](second.md)** local to the repo.
 
