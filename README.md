@@ -20,16 +20,14 @@ return sum
 
 * Go to the store
 * Buy Food
- * Rice
- * Beans
+  * Rice
+  * Beans
 * Come home
 
 1. Go to the store
 2. Buy Food
- 1. Rice (indented.. So start at 1)
- 6. Beans
-1. Come home
-2. After coming home
+  2.1. Rice
+  2.2. Beans
 3. And this should be the final line.
 
 Before the rule we want a blank line
